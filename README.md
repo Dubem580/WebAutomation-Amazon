@@ -19,15 +19,15 @@ Essentially, a browser of choice(Google Chrome was the aim of this project) shou
 2.Download [Google Chrome Driver] (http://chromedriver.storage.googleapis.com/index.html?path=2.25/).
 
 	-Store in location of choice, preferably in a working folder.
-3.Using Eclipse or IntelliJ, load the selenium.jar library files and specify the 
-ChromeDriver.exe path location in your Java file.
+3.Using Eclipse or IntelliJ, load the selenium.jar library files and specify the ChromeDriver.exe path location in your Java file.
+
 ##Using Selenium WebDriver NPM (Javascript)
 
 1.Visit the official [npmjs] (https://www.npmjs.com/package/selenium-webdriver) website for more information.
 
-2. Ensure the component for your web browser of choice has been downloaded. For this purpose, it is [Chrome].
+2.Ensure the component for your web browser of choice has been downloaded. For this purpose, it is [Chrome].
 
 3.Once the above procedures have checked out, open up a text editor and look through [test2.js] to understand what the script will be doing.
 
-4. From the command line, cd into the working directory and run the command: 
+4.From the command line, cd into the working directory and run the command: 
 	-[node test2.js]
